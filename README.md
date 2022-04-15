@@ -37,4 +37,6 @@ There are 3 main folders in this project,
     4. nba_games.xlsx - dataset for nba games
     5. nba_games_data_sentimentanalysis_weighted.csv - dataset for nba games twitter sentiment scores
 
+## Setting Up
 
+As our team utilized both Google Colab and Jupyter Notebook for development, please **edit the file paths accordingly** to load the relevant datasets that are in the same folder.
